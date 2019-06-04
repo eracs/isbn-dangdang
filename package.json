@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.7.0"
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.4.24",
+    "koa": "^2.7.0",
+    "request": "^2.88.0"
   }
 }
